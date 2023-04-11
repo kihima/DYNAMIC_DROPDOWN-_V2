@@ -1,0 +1,172 @@
+[{"name": "Mombasa", 
+                    "constituencies": [{
+                      "name": "Changamwe", 
+                        "wards": [{ 
+                          "name": "Port Reitz", 
+                            "pollings": [{"name": "Bomu Primary School"}, 
+                                        {"name": "Mwijabu Primary School"}, 
+                                        {"name": "Lilongwe Garden"}, 
+                                        {"name": "Bomu Stadium"}, 
+                                        {"name": "Bomu Secondary School"}, 
+                                        {"name": "Full Gospel Church"}
+                                    ]
+                        },
+                        {
+                          "name": "Kipevu", 
+                            "pollings": [{"name": "Umoja Primary School"}, 
+                                        {"name": "Kisumu Ndogo Ground"},
+                                        {"name": "Kwa Hola Primary"},
+                                        {"name": "Cape Town Ground"},
+                                        {"name": "Kaloleni Ground"},
+                                        {"name": "Akamba Handcraft Coop. Society"}
+                                    ]
+                        },
+                        {
+                            "name": "Airport", 
+                              "pollings": [{"name": "Bokole Nursery School"}, 
+                                          {"name": "Baraka Village"},
+                                          {"name": "Al-Irshadi Nursery"},
+                                          {"name": "Mwindani Social Hall"},
+                                          {"name": "Portreitz Nursery"}
+                                      ]
+                          },
+                        {
+                          "name": "Changamwe",
+                            "pollings": [{"name": "Changamwe Social Hall"}, 
+                                        {"name": "Changamwe Primary"},
+                                        {"name": "St. Lwanga Primary"},
+                                        {"name": "Changamwe Secondary"},
+                                        {"name": "Gome Primary School"},
+                                        {"name": "Magongo Primary"},
+                                        {"name": "Baptist Church Primary"},
+                                        {"name": "Bishop Mkala Academy"},
+                                        {"name": "Kimbilio Academy"},
+                                        {"name": "AIC Church Hall"}
+                                    ]
+                        },
+                        {
+                            "name": "Chaani",
+                              "pollings": [{"name": "Chaani Social Hall"}, 
+                                          {"name": "Kipevu Primary School"},
+                                          {"name": "Mikidani Primary School"},
+                                          {"name": "Chaani Secondary School"},
+                                          {"name": "Chaani Primary School"},
+                                          {"name": "Chaani Chief's Office"},
+                                          {"name": "Kasarani Grounds"}
+                                      ]
+                          }
+                      ]
+                  },
+                {
+                    "name": "Jomvu", 
+                    "wards": [{ 
+                      "name": "Jomvu Kuu", 
+                        "pollings": [{"name": "Miritini World Bank Primary School"}, 
+                                    {"name": "Jomvu Kuu Primary School"}, 
+                                    {"name": "Taratibu Social Hall"}, 
+                                    {"name": "Mirironi Primary School"}, 
+                                    {"name": "Jomvu Narcol Nursery School"}, 
+                                    {"name": "Swaleh Khalid Social Hall"},
+                                    {"name": "Nuru Community Based Rehab"},
+                                    {"name": "Badi Twalib Primary School"},
+                                    {"name": "Aldinnah Open Grounds"},
+                                    {"name": "Misufini Open Grounds"}
+                                ]
+                    },
+                    {
+                      "name": "Miritini", 
+                        "pollings": [{"name": "Abu-Ubaida Primary School"}, 
+                                    {"name": "Miritini Primary School"},
+                                    {"name": "Bamako Innitiative Miritini"},
+                                    {"name": "Railway Station Hall"},
+                                    {"name": "Mwamlai Primary School"},
+                                    {"name": "Chabeat Open Ground-Chamuny"},
+                                    {"name": "Maganda Primary School"}
+                                ]
+                    },
+                    {
+                        "name": "Mikindani", 
+                          "pollings": [{"name": "Ministry of Water Tanks"}, 
+                                      {"name": "Owino Uhuru Nursery School"},
+                                      {"name": "Kwa Shee Primary School"},
+                                      {"name": "Amani Primary School"},
+                                      {"name": "St. Mary's Bangladesh Primary School"},
+                                      {"name": "Mikindani Primary School"},
+                                      {"name": "New Kibarani Primary School"},
+                                      {"name": "Kajembe High School"},
+                                      {"name": "Nazarene Nursery School"},
+                                      {"name": "Mwembeni Open Grounds"}
+                                  ]
+                      }
+                ] 
+                },
+                {
+                    "name": "Kisauni", 
+                    "wards": [{ 
+                      "name": "Junda", 
+                        "pollings": [{"name": "Manyani Grounds"}, 
+                                    {"name": "IFC Church"}, 
+                                    {"name": "Emmas Academy"}, 
+                                    {"name": "New Hope Secondary School"}, 
+                                    {"name": "Assistant Chief's Camp-Machafuko"}, 
+                                    {"name": "Junda Assistant Chief's Camp"}                
+                                ]
+                    },
+                    {
+                      "name": "Bamburi", 
+                        "pollings": [{"name": "Kashani Primary School"}, 
+                                    {"name": "Majaoni Primary School"},
+                                    {"name": "Kiembeni Primary School"},
+                                    {"name": "St. Elizabeth Academy"},
+                                    {"name": "Mdengerekeni Primary School"}                                    
+                                ]
+                    },
+                    {
+                        "name": "Mwakirunge", 
+                          "pollings": [{"name": "Marimani Primary School"}, 
+                                      {"name": "Colorado Primary School"},
+                                      {"name": "Voroni Community Primary School"},
+                                      {"name": "Maunguja Primary School"},
+                                      {"name": "Mwakirunge Primary School"}                                                                          
+                                  ]
+                      },
+                      {
+                        "name": "Mtopanga", 
+                          "pollings": [{"name": "Kiembeni Baptist Primary School"}, 
+                                      {"name": "Mtopanga Primary School"},
+                                      {"name": "Concordia Primary School"},
+                                      {"name": "Community of Christ Church"},
+                                      {"name": "St. Josephs Herman Primary School"},
+                                      {"name": "Perma Sharp Grounds"}                                                                         
+                                  ]
+                      },
+                      {
+                        "name": "Magogoni", 
+                          "pollings": [{"name": "Mishomoroni Junior Academy"}, 
+                                      {"name": "Mwandoni (Kishada) Play Ground"},
+                                      {"name": "Barsheba Sokoni Grounds"},
+                                      {"name": "Mwandoni Blue Bench Grounds"},
+                                      {"name": "Mwanndoni Kwa Mtumwa Ground"},
+                                      {"name": "Mjahidina Muslim School"}                                                                         
+                                  ]
+                      },
+                      {
+                        "name": "Shanzu", 
+                          "pollings": [{"name": "Mikoroshoni Primary School"}, 
+                                      {"name": "Utange Primary School"},
+                                      {"name": "Zimlat Primary School"},
+                                      {"name": "Bamburi Primary School"},
+                                      {"name": "Shanzu Teachers Training School"},
+                                      {"name": "Shimo la tewa Primary School"},
+                                      {"name": "Mwembelegeza Primary School"}                                                                         
+                                  ]
+                      }
+                ] 
+                }
+            ]
+                  
+                  }  
+                
+                
+                
+                ]
