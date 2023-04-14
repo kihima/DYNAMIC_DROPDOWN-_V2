@@ -1,30 +1,40 @@
 <!DOCTYPE html>
 <html>
+    <link rel="stylesheet" href="css/style.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <body>
-<label>County:</label>
-<select id="county" >
-  <option value="">-- Select County --</option>
-</select>
+<div class="regForm">
+    <div class="containerForm">
+		<div class="title">
+            Kenya County, Constituency, Ward and Polling Station Dynamic Dropdown
+		</div>
 
-<label>Constituency:</label>
-<select id="constituency" >
-  <option value="">-- Select Constituency --</option>
-</select>
+        <form action="" method="post">
+            <label>County:</label>
+            <select id="county" >
+            <option value="">-- Select County --</option>
+            </select>
 
-<label>Ward:</label>
-<select id="ward">
-  <option value="">-- Select Ward --</option>
-</select>
+            <label>Constituency:</label>
+            <select id="constituency" >
+            <option value="">-- Select Constituency --</option>
+            </select>
 
-<label>Polling Station:</label>
-<select id="polling">
-  <option value="">-- Select Polling Station --</option>
-</select>
+            <label>Ward:</label>
+            <select id="ward">
+            <option value="">-- Select Ward --</option>
+            </select>
 
+            <label>Polling Station:</label>
+            <select id="polling">
+            <option value="">-- Select Polling Station --</option>
+            </select>
+        </form>
+    </div>
+</div>
 </body>
 </html>
 <script>
