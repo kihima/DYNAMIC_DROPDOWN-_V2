@@ -11576,8 +11576,8 @@
                 ]
             },
             {"name": "NORTH HORR",
-                "wards": {
-                    "DUKANA": {
+                "wards": [{
+                    "name": "DUKANA",
                         "pollings": [
                             {
                                 "name": "DUKANA PR. SCH"
@@ -11650,7 +11650,7 @@
                             }
                         ]
                     },
-                    "MAIKONA": {
+                    {"name": "MAIKONA", 
                         "pollings": [
                             {
                                 "name": "LAG LOKO MOBILE"
@@ -11741,7 +11741,7 @@
                             }
                         ]
                     },
-                    "TURBI": {
+                    {"name": "TURBI",
                         "pollings": [
                             {
                                 "name": "TURBI PR. SCH."
@@ -11805,7 +11805,7 @@
                             }
                         ]
                     },
-                    "NORTH HORR": {
+                    {"name": "NORTH HORR",
                         "pollings": [
                             {
                                 "name": "GAS PR. SCH."
@@ -11869,7 +11869,7 @@
                             }
                         ]
                     },
-                    "ILLERET": {
+                    {"name": "ILLERET",
                         "pollings": [
                             {
                                 "name": "ILLERET PR. SCH."
@@ -11900,11 +11900,11 @@
                             }
                         ]
                     }
-                }
+                ]
             },
             {"name": "SAKU",
-                "wards": {
-                    "SAGANTE/JALDESA": {
+                "wards": [{
+                    "name": "SAGANTE/JALDESA",
                         "pollings": [
                             {
                                 "name": "MANYATTA JILLO PR. SCH"
@@ -11989,7 +11989,7 @@
                             }
                         ]
                     },
-                    "KARARE": {
+                    {"name": "KARARE",
                         "pollings": [
                             {
                                 "name": "HULA HULA PR. SCH."
@@ -12032,7 +12032,7 @@
                             }
                         ]
                     },
-                    "MARSABIT CENTRAL": {
+                    {"name": "MARSABIT CENTRAL",
                         "pollings": [
                             {
                                 "name": "FATHI MADRASSA"
@@ -12099,11 +12099,11 @@
                             }
                         ]
                     }
-                }
+                ]
             },
             {"name": "LAISAMIS",
-                "wards": {
-                    "LOIYANGALANI": {
+                "wards": [{
+                    "name": "LOIYANGALANI",
                         "pollings": [
                             {
                                 "name": "OLTUROT PRIMARY SCH."
@@ -12158,7 +12158,7 @@
                             }
                         ]
                     },
-                    "KARGI/SOUTH HORR": {
+                    {"name": "KARGI/SOUTH HORR",
                         "pollings": [
                             {
                                 "name": "KARGI SOC. HALL"
@@ -12198,7 +12198,7 @@
                             }
                         ]
                     },
-                    "KORR/NGURUNIT": {
+                    {"name": "KORR/NGURUNIT",
                         "pollings": [
                             {
                                 "name": "NGURUNIT PRIMARY SCH."
@@ -12256,7 +12256,7 @@
                             }
                         ]
                     },
-                    "LOGO LOGO": {
+                    {"name": "LOGO LOGO",
                         "pollings": [
                             {
                                 "name": "SANCHIR WATERPOINT"
@@ -12284,7 +12284,7 @@
                             }
                         ]
                     },
-                    "LAISAMIS": {
+                    {"name": "LAISAMIS",
                         "pollings": [
                             {
                                 "name": "LAISAMIS PRIMARY SCH."
@@ -12330,7 +12330,7 @@
                             }
                         ]
                     }
-                }
+                ]
             }
         ]
     },
